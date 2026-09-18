@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Swapnil Dolare</h1>
-<h3 align="center">A passionate Robocist from United kingdom</h3>
+<h3 align="center">A passionate Data Analyst from United kingdom</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **swapnildolare21@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15S_BBdSZfz9PACR60YPs285Zu5n2CK1z/view?usp=sharing](https://drive.google.com/file/d/15S_BBdSZfz9PACR60YPs285Zu5n2CK1z/view?usp=sharing)
 
 - ⚡ Fun fact **"Did you know? I can solve a Rubik's Cube in under 100 seconds! 🧩💨 #Speedcuber"**
 
